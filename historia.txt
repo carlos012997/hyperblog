@@ -4,6 +4,8 @@ Carlos Barreto tiene 22 años y nació en Colombia
 
 Master 1.
 
+Master 2.
+
 Hoy hablaremos de su historia y legado.
 
 Vamos a practicar en Git.
